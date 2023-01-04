@@ -1,1 +1,1 @@
-## What? Just practising some git commands 😒
+# What? Just practising some git commands 😒
